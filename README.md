@@ -27,3 +27,7 @@ To avoid any unneccessary attention and blockage, I made the script to run every
 MIT © [Sunil Tatipelly](http://suniltatipelly.in)
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Sunil02324/samosa-clips-auto-downloader/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
